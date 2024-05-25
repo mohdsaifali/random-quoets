@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mohdsaifali.github.io/random-quoets",
+  
   "name": "random-quote",
   "version": "0.1.0",
   "private": true,
@@ -20,6 +20,7 @@
     "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
   },
+  "homepage": "https://mohdsaifali.github.io/random-quoets",
   "eslintConfig": {
     "extends": [
       "react-app",
