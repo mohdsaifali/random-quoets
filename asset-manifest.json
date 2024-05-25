@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/random-quoets/static/css/main.48e3c7af.css",
+    "main.js": "/random-quoets/static/js/main.1badd6f6.js",
+    "index.html": "/random-quoets/index.html",
+    "main.48e3c7af.css.map": "/random-quoets/static/css/main.48e3c7af.css.map",
+    "main.1badd6f6.js.map": "/random-quoets/static/js/main.1badd6f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48e3c7af.css",
+    "static/js/main.1badd6f6.js"
+  ]
+}
